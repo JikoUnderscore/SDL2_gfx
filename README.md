@@ -1,0 +1,1 @@
+iwr -URI https://github.com/libsdl-org/SDL/releases/download/release-2.26.2/SDL2-devel-2.26.2-VC.zip -OutFile .\SDL2-devel-2.26.2-VC.zip; Expand-Archive ".\SDL2-devel-2.26.2-VC.zip"
