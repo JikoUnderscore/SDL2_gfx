@@ -1,1 +1,10 @@
 SDL2-devel-2.26.2-VC.zip
+/SDL2-devel-2.26.2-VC
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+/x64
+/x86
+/.vs
